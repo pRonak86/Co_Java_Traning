@@ -1,0 +1,17 @@
+Student_Information
+	Server Port : 8085
+
+Faculty_Information
+	Server Port : 8086
+
+Admin_Information
+	Server Port : 8088
+
+
+http://localhost:8761/eureka
+
+
+for API documentation --> Spring.OpenAPI we have to use 
+
+load balancing --> with ribbon and feign two api is there for the same 
+				
